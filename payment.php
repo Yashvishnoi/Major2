@@ -59,7 +59,7 @@ h5,h3{font-family: "Montserrat", sans-serif;color:white;}
 	  echo "<h6>Hello $uname</h6>";
   }
 	  ?>
-    <a href="#" class="w3-padding-large " title="Notifications"><i class="fa fa-user"></i></a   
+    <a href="#" class="w3-padding-large " title="Notifications"><i class="fa fa-user"></i></a> 
     <div class="w3-dropdown-content w3-white w3-card-4" style='font-size:12px'>
       <a href="#login">Login</a>
       <a href="Logout.php">Logout</a>
